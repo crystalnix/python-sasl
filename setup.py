@@ -11,5 +11,5 @@ setup(
     keywords = 'security protocol rfc sasl',
 
     packages = list(find_packages(exclude=('examples', ))),
-    install_requires = ['md.py']
+    #install_requires = ['md.py']
 )
